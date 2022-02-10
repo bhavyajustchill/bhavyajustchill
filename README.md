@@ -18,7 +18,8 @@
 <p align="center">
   <a href="https://github.com/bhavyajustchill"><img src="src/social/github.png" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discordapp.com/users/693820731393310772/"><img src="src/social/discord.png" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/916354546061"><img src="src/social/whatsapp.png" /></a>
+  <a href="https://wa.me/916354546061"><img src="src/social/whatsapp.png" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="bhavyabpopat7777@gmail.com"><img src="src/social/gmail.png" /></a>
 </p>
 
 
