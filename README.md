@@ -44,5 +44,8 @@
 </p>
 
 
+#### GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavyajustchill)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{bhavyajustchill}/count.svg)
