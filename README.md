@@ -1,51 +1,22 @@
-## Hi there, I'm Bhavya Popat
+# 💫 About Me:
+Hi there! I'm **Bhavya Popat**, better known as *BhavyaJustChill*!<br><br>📚 Always learning, always improving.<br>📈 Code. Debug. Deploy. Repeat.<br>🚀 Building dreams one line of code at a time.<br>🖥️ Full-stack wizard: MERN by day, Flutter by night.<br>💻 Turning caffeine into clean, scalable code.<br>🌍 On a mission to create impactful web and mobile solutions.<br>🛠️ Tinkering with tech to make life better.<br>🖤 Open-source enthusiast and lifelong learner.<br>✨ Transforming ideas into robust applications.<br>📝 Writing code that speaks louder than words.
 
 
-<p align="center">
-<img width="20%" src="src/misc/programming.png"/>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/wYeGYdwE) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavyajustchill) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BhavyaJustChill) 
 
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bhavyajustchill&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bhavyajustchill&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyajustchill&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- I'm  **Developer** | **Programmer** |  **Learner** 
-- Decent in core basics of **many Programming Languages**
-- Currently learning **2D Game Development** with **Unity using C#**, will later learn **3D Game Development** too!
-- Willing to contribute more and more in **Open Source Projects**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bhavyajustchill&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### Feel Free to Get in Touch!
-
-
-<p align="center">
-  <a href="https://github.com/bhavyajustchill"><img src="src/social/github.png" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/693820731393310772/"><img src="src/social/discord.png" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/916354546061"><img src="src/social/whatsapp.png" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:bhavyabpopat7777@gmail.com"><img src="src/social/gmail.png" /></a>
-</p>
-
-
-### My Tech Stack
-
-
-<p align="center">
-    <img style="padding:5px" src="src/tech/csharp.png" />
-    <img style="padding:5px" src="src/tech/unity.png" />
-    <img style="padding:5px" src="src/tech/java.png" />
-    <img style="padding:5px" src="src/tech/android.png" />
-    <img style="padding:5px" src="src/tech/clang.png" />
-    <img style="padding:5px" src="src/tech/c-plus-plus-logo.png" />
-    <br>
-    <img style="padding:5px" src="src/tech/html5.png" />
-    <img style="padding:5px" src="src/tech/css3.png" />
-    <img style="padding:5px" src="src/tech/javascript.png" />
-    <img height="75px" style="padding:5px" src="src/tech/asp.net.png" />
-    <img style="padding:5px" src="src/tech/php.png" /> &nbsp;&nbsp;&nbsp;
-    <img style="padding:5px" src="src/tech/mysql.png" />
-
-</p>
-
-
-#### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavyajustchill&show_icons=true&theme=tokyonight)
-
-#### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{bhavyajustchill}/count.svg)
+---
+[![](https://visitcount.itsvg.in/api?id=bhavyajustchill&icon=5&color=6)](https://visitcount.itsvg.in)
