@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 # 💫 About Me:
 Hi there! I'm **Bhavya Popat**, better known as *BhavyaJustChill*!<br><br>📚 Always learning, always improving.<br>📈 Code. Debug. Deploy. Repeat.<br>🚀 Building dreams one line of code at a time.<br>🖥️ Full-stack wizard: MERN by day, Flutter by night.<br>💻 Turning caffeine into clean, scalable code.<br>🌍 On a mission to create impactful web and mobile solutions.<br>🛠️ Tinkering with tech to make life better.<br>🖤 Open-source enthusiast and lifelong learner.<br>✨ Transforming ideas into robust applications.<br>📝 Writing code that speaks louder than words.
 
