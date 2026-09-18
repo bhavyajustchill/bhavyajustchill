@@ -3,11 +3,11 @@
 Hi there! I'm **Bhavya Popat**, better known as _BhavyaJustChill_!<br>
 
 <picture>
+  <source media="(min-width: 761px) and (prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(min-width: 761px) and (prefers-color-scheme: light)" srcset="./light.svg">
   <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./dark-mobile.svg">
-  <source media="(max-width: 760px)" srcset="./light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img alt="Animated GitHub Profile of BhavyaJustChill"  src="./dark.svg">
+  <source media="(max-width: 760px) and (prefers-color-scheme: light)" srcset="./light-mobile.svg">
+  <img alt="Animated GitHub Profile of BhavyaJustChill"  src="./dark.svg" width="100%">
 </picture>
 
 <br>📚 Always learning, always improving.<br>📈 Code. Debug. Deploy. Repeat.<br>🚀 Building dreams one line of code at a time.<br>🖥️ Full-stack wizard: MERN by day, Flutter by night.<br>🤖 AI Enthusiast: Building next-gen, AI-enabled full-stack applications.<br>⚡ Merging machine intelligence with clean, scalable architectures.<br>🌐 3D Web Creator: Crafting interactive, immersive 3D web experiences with Three.js & R3F.<br>💻 Turning caffeine into clean, scalable code.<br>🌍 On a mission to create impactful web and mobile solutions.<br>🛠️ Tinkering with tech to make life better.<br>🖤 Open-source enthusiast and lifelong learner.<br>✨ Transforming ideas into robust applications.<br>📝 Writing code that speaks louder than words.
