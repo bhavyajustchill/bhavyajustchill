@@ -4,6 +4,8 @@
 Hi there! I'm **Bhavya Popat**, better known as *BhavyaJustChill*!<br>
 
 <picture>
+  <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./dark-mobile.svg">
+  <source media="(max-width: 760px)" srcset="./light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
   <img alt="Bhavya Popat" src="./dark.svg">
